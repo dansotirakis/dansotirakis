@@ -13,4 +13,4 @@
 - 📫 How to reach me: dansotirakis18@gmail.com
 - ⚡ Fun fact: what will i do tomorrow
 
-![run](https://github.com/dansotirakis/dansotirakis/blob/master/01.gif)
+![run](https://github.com/dansotirakis/dansotirakis/blob/master/02.gif)
