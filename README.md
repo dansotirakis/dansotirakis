@@ -5,7 +5,7 @@
 -->
 😄 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on carbondata, project intelij
+- 🔭 I’m currently working on java, python, scala and kotlin
 - 🌱 I’m currently learning java, python, scala and kotlin
 - 👯 I’m looking to collaborate feel free
 - 🤔 I’m looking for help feel free
