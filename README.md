@@ -4,8 +4,6 @@
 **dansotirakis/dansotirakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![skils](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=dansotirakis)
-
 ![run](https://github.com/dansotirakis/dansotirakis/blob/master/01.gif)
 
 😄 Here are some ideas to get you started:
@@ -17,3 +15,5 @@
 - 💬 Ask me about @dansotirakis or #dansotirakis
 - 📫 How to reach me: dansotirakis18@gmail.com
 - ⚡ Fun fact: what will i do tomorrow
+
+![skils](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=dansotirakis)
