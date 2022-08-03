@@ -15,6 +15,5 @@
 - 💬 Ask me about @dansotirakis or #dansotirakis
 - 📫 How to reach me: dansotirakis18@gmail.com
 - ⚡ Fun fact: what will i do tomorrow
-<!--
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=dansotirakis" width="420" height="200" />
--->
+
+![cloud](https://github.com/dansotirakis/dansotirakis/blob/master/aws-certified-cloud-practitioner.png)
