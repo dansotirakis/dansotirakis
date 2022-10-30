@@ -12,8 +12,6 @@
 - 🌱 I’m currently learning java, python, scala and kotlin
 - 👯 I’m looking to collaborate feel free
 - 🤔 I’m looking for help feel free
-- 💬 Ask me about @dansotirakis or #dansotirakis
-- 📫 How to reach me: dansotirakis18@gmail.com
 - ⚡ Fun fact: what will i do tomorrow
 
 ![cloud](https://github.com/dansotirakis/dansotirakis/blob/master/aws-certified-cloud-practitioner.png)
