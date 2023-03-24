@@ -15,3 +15,7 @@
 - ⚡ Fun fact: what will i do tomorrow
 
 ![cloud](https://github.com/dansotirakis/dansotirakis/blob/master/aws-certified-cloud-practitioner.png)
+
+![Scrum-Foundation-Professional-Certificate-SFPC-2021_](https://github.com/dansotirakis/dansotirakis/blob/master/assets/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png)
+
+![CertiProf-Badge-LLL](ttps://github.com/dansotirakis/dansotirakis/blob/master/assets/CertiProf-Badge-LLL.png)
