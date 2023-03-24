@@ -18,4 +18,4 @@
 
 ![Scrum-Foundation-Professional-Certificate-SFPC-2021_](https://github.com/dansotirakis/dansotirakis/blob/master/assets/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png)
 
-![CertiProf-Badge-LLL](ttps://github.com/dansotirakis/dansotirakis/blob/master/assets/CertiProf-Badge-LLL.png)
+![CertiProf-Badge-LLL](https://github.com/dansotirakis/dansotirakis/blob/master/assets/CertiProf-Badge-LLL.png)
