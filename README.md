@@ -14,8 +14,4 @@
 - 🤔 I’m looking for help feel free
 - ⚡ Fun fact: what will i do tomorrow
 
-![cloud](https://github.com/dansotirakis/dansotirakis/blob/master/assets/Aws-CLFC01.png)
-
-![Scrum-Foundation-Professional-Certificate-SFPC-2021_](https://github.com/dansotirakis/dansotirakis/blob/master/assets/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png)
-
-![CertiProf-Badge-LLL](https://github.com/dansotirakis/dansotirakis/blob/master/assets/CertiProf-Badge-LLL.png)
+![cloud](https://github.com/dansotirakis/dansotirakis/blob/master/assets/isgn.png)
